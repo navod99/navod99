@@ -2,9 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-- 🔭 I’m currently working on **Telexar Technologies**
-
-- 💬 Ask me about **React js, Node js and .Net**
+- 💬 Ask me about **Next js ,React js, Node js and .Net**
 
 - 📫 How to reach me **navodc99@gmail.com**
 
